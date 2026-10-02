@@ -1,0 +1,2 @@
+# premium-sc-risk-001-supply-chain-risk-assessment-t
+Every supply-chain-management professionals needs this — most just don't know it yet.  Pre-built databases, views, and formula fields — ready to duplicate and use. Mobile-optimized for Notion iOS and Android — works everywhere you work.  ## What's Included  - Supply Chain Risk Assessment — fully configured and ready to use - Pre-built databases wit
